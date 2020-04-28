@@ -1,0 +1,57 @@
+.conteiner{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+body{
+	background-color: #20B2AA;
+}
+.wrapper{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+
+}
+
+.con{
+	color: #800080;
+}
+
+.con1{
+	color: #4169E1;
+}
+
+.con2{
+	color: #FF0000;
+}
+
+.con3{
+	color: #000080;
+}
+.intro_title{
+	color: red;
+	width: 100%;
+	max-width: 500px;
+	margin:0 auto;
+	text-align: center;
+}
+ .foo{
+   	 margin-bottom: 180px;
+   	 float: left;
+   	 width: 100%;
+
+   }
+
+.footer{
+	display: -webkit-flex;
+	display: -o-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 200%;
+	color: #fff;
+	 background-color: #8B0000;
